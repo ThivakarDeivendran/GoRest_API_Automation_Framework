@@ -1,0 +1,7 @@
+{
+    "pageList": 2,
+    "singleUser" :4,
+    "unknownUser": 99,
+    "expectedFirstName" :"Michael",
+    "expectedMail" :"michael.lawson@reqres.in"
+}

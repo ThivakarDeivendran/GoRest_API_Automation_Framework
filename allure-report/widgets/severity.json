@@ -1,0 +1,1 @@
+[{"uid":"4cc66495ed3e7e5d","name":"validate new User create by post method","time":{"start":1789919430885,"stop":1789919431567,"duration":682},"status":"passed","severity":"normal"},{"uid":"fe850ef33937758a","name":"validate Get user list","time":{"start":1789919430887,"stop":1789919431570,"duration":683},"status":"passed","severity":"normal"}]
